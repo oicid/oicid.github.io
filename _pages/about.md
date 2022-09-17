@@ -66,6 +66,8 @@ Awards
 
 \[10/2020\] **Excellence Award** on Coremail E-mail Security Analysis Contest 
 
+\[05/2019\] **Outstanding Student**, University of Chinese Academy of Sciences 
+
 \[06/2017\] **Outstanding Bachelor Thesis Award**, Civil Aviation University of China 
 
 \[08/2015\] **1st Prize**, National College Student Information Security Contest 
