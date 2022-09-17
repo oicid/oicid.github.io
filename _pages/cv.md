@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version will be available soon.
+
 Education
 ======
 * B.S. in Information Security, Civil Aviation University of China, 2017
