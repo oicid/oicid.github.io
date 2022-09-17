@@ -18,19 +18,19 @@ I am expected to graduate in July 2023, and I am looking for a postdoc or work o
 Education
 ---
 
-\[09/2017 -- Now\] University of Chinese Academy of Sciences, PhD in Cyber Security
+\[09/2017 -- Now\] **University of Chinese Academy of Sciences**, PhD in Cyber Security
 
-\[09/2013 -- 06/2017\] Civil Aviation University of China, Bachelor in Information Security
+\[09/2013 -- 06/2017\] **Civil Aviation University of China**, Bachelor in Information Security
 
 
 Publication 
 ---
 
-Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks[C]. In Annual Computer Security Applications Conference (**ACSAC'22**), ACM, 2022. (To appear)
-
-**Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, and Xutong Wang. EvilModel 2.0: Bringing Neural Network Models into Malware Attacks. **Computers & Security**, 2022, 120: 102807. DOI: [10.1016/j.cose.2022.102807](https://doi.org/10.1016/j.cose.2022.102807) 
+Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**), ACM, 2022. (To appear)
 
 **Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, Jiaxi Liu, Di Wu, and Qixu Liu. DeepC2: AI-Powered Covert Command and Control on OSNs. In 24th International Conference on Information and Communications Security (**ICICS'22**), Springer, Cham, 2022: 394-414. DOI: [10.1007/978-3-031-15777-6_22](https://doi.org/10.1007/978-3-031-15777-6_22) (**Best Artifact Award**)
+
+**Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, and Xutong Wang. EvilModel 2.0: Bringing Neural Network Models into Malware Attacks. **Computers & Security**, 2022, 120: 102807. DOI: [10.1016/j.cose.2022.102807](https://doi.org/10.1016/j.cose.2022.102807) 
 
 **Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (in Chinese). **Journal of Cyber Security**. (Accepted)
 
@@ -48,9 +48,9 @@ Chaoge Liu, Xiang Cui, **Zhi Wang**, Xiaoxi Wang, Yun Feng, and Xiaoyun Li. Mali
 
 Jingqiang Liu, Zihao Zhao, Xiang Cui, **Zhi Wang**, and Qixu Liu. A Novel Approach for Detecting Browser-Based Silent Miner. In 2018 IEEE 3rd International Conference on Data Science in Cyberspace (**DSC'18**). IEEE, 2018: 490-497. DOI: [10.1109/DSC.2018.00079](https://doi.org/10.1109/DSC.2018.00079)
 
-Jinli Zhang, **Zhi Wang**. Poster: An anonymity metric of anonymous network[C]. In 2018 IEEE Symposium on Security and Privacy (**S&P'18**). IEEE, 2018. 
+Jinli Zhang, **Zhi Wang**. Poster: An anonymity metric of anonymous network. In 2018 IEEE Symposium on Security and Privacy (**S&P'18**). IEEE, 2018. 
 
-Junwei Su, Qixu Liu, **Zhi Wang**, and Xiaoyun Li. Poster: A Web Server Identified Model based on Mean Shift[C]. In 2018 IEEE Symposium on Security and Privacy (**S&P'18**). IEEE, 2018. 
+Junwei Su, Qixu Liu, **Zhi Wang**, and Xiaoyun Li. Poster: A Web Server Identified Model based on Mean Shift. In 2018 IEEE Symposium on Security and Privacy (**S&P'18**). IEEE, 2018. 
 
 Wei Jin, Hong Cui, **Zhi Wang**, Faqin Guo, Yiwen Wang, and Shuai He. Detection and Control System for DDoS Attacks (in Chinese). **Cyberspace Security**, 2017, 8(Z3): 19-22.
 
@@ -58,17 +58,17 @@ Wei Jin, Hong Cui, **Zhi Wang**, Faqin Guo, Yiwen Wang, and Shuai He. Detection 
 Awards
 ---
 
-09/2022 Best Artifact Award, International Conference on Information and Communications Security (ICICS 2022) 
+\[09/2022\] **Best Artifact Award**, International Conference on Information and Communications Security (ICICS 2022) 
 
-10/2021 1st Prize, Encrypted Traffic Analysis on DataCon Big Data Security Analysis Contest 
+\[10/2021\] **1st Prize**, Encrypted Traffic Analysis on DataCon Big Data Security Analysis Contest 
 
-05/2021 Dean's Excellence Award, Institute of Information Engineering, Chinese Academy of Sciences 
+\[05/2021\] **Dean's Excellence Award**, Institute of Information Engineering, Chinese Academy of Sciences 
 
-10/2020 Excellence Award on Coremail E-mail Security Analysis Contest 
+\[10/2020\] **Excellence Award** on Coremail E-mail Security Analysis Contest 
 
-06/2017 Outstanding Bachelor Thesis Award, Civil Aviation University of China 
+\[06/2017\] **Outstanding Bachelor Thesis Award**, Civil Aviation University of China 
 
-08/2015 1st Prize, National College Student Information Security Contest 
+\[08/2015\] **1st Prize**, National College Student Information Security Contest 
 
 
 Contact 
