@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhi Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,59 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Zhi Wang is a Ph.D. candidate at University of Chinese Academy of Sciences, majoring in Cyber Security. He received his Bachelor degree in Information Security from Civil Aviation University of China in 2017. His research interests include AI security, network and application security, and botnet. Zhi Wang is expected to graduate in July 2023. He is looking for a postdoc or work opportunity in cyber security or related directions.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Education
+---
+09/2017 -- Now University of Chinese Academy of Sciences, PhD in Cyber Security
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+09/2013 -- 06/2017 Civil Aviation University of China, Bachelor in Information Security
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Publication 
+---
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks[C]. In Annual Computer Security Applications Conference (ACSAC), ACM, 2022. (To appear)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, and Xutong Wang. EvilModel 2.0: Bringing Neural Network Models into Malware Attacks. Computers & Security, 2022, 120: 102807. DOI: 10.1016/j.cose.2022.102807 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, Jiaxi Liu, Di Wu, and Qixu Liu. DeepC2: AI-Powered Covert Command and Control on OSNs. In 24th International Conference on Information and Communications Security (ICICS), Springer, Cham, 2022: 394-414. DOI: 10.1007/978-3-031-15777-6_22 (**Best Artifact Award**)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (in Chinese). Journal of Cyber Security. (Accepted)
+
+**Zhi Wang**, Chaoge Liu, and Xiang Cui. EvilModel: Hiding Malware Inside of Neural Network Models. In 2021 IEEE Symposium on Computers and Communications (ISCC), 2021: 1-7. DOI: 10.1109/iscc53001.2021.9631425 
+
+Fangjiao Zhang, Xiang Cui, **Zhi Wang**, Shaomian Chen, Qixu Liu, and Chaoge Liu. A Systematic Study of AI Applications in Cybersecurity Competitions. In 2020 IEEE 14th International Conference on Big Data Science and Engineering (BigDataSE). IEEE, 2020: 138-146.
+
+Jie Yin, Xiang Cui, Chaoge Liu, Qixu Liu, Tao Cui, and **Zhi Wang**. CoinBot: A covert botnet in the cryptocurrency network. In 22nd International Conference on Information and Communications Security (ICICS). Springer, Cham, 2020: 107-125. 
+
+Zihao Zhao, Qixu Liu, Tiantian Song, **Zhi Wang**, and Xianda Wu. WSLD: detecting unknown webshell using fuzzy matching and deep learning. In 21st International Conference on Information and Communications Security (ICICS). Springer, Cham, 2019: 725-745.
+
+**Zhi Wang**, Jinli Zhang, Qixu Liu, Xiang Cui, and Junwei Su. Practical Metrics for Evaluating Anonymous Networks. In 1st International Conference on Science of Cyber Security, Springer, Cham, 2018: 3-18. DOI: 10.1007/978-3-030-03026-1_1
+
+Chaoge Liu, Xiang Cui, **Zhi Wang**, Xiaoxi Wang, Yun Feng, and Xiaoyun Li. MaliceScript: A Novel Browser-Based Intranet Threat. In 2018 IEEE 3rd International Conference on Data Science in Cyberspace. IEEE, 2018: 219-226. 
+
+Jingqiang Liu, Zihao Zhao, Xiang Cui, **Zhi Wang**, and Qixu Liu. A Novel Approach for Detecting Browser-Based Silent Miner. In 2018 IEEE 3rd International Conference on Data Science in Cyberspace. IEEE, 2018: 490-497.
+
+Jinli Zhang, **Zhi Wang**. Poster: An anonymity metric of anonymous network[C]. In 2018 IEEE Symposium on Security and Privacy (SP). IEEE, 2018. 
+
+Junwei Su, Qixu Liu, **Zhi Wang**, and Xiaoyun Li. Poster: A Web Server Identified Model based on Mean Shift[C]. In 2018 IEEE Symposium on Security and Privacy (SP). IEEE, 2018. 
+
+Wei Jin, Hong Cui, **Zhi Wang**, Faqin Guo, Yiwen Wang, and Shuai He. Detection and Control System for DDoS Attacks (in Chinese). Cyberspace Security, 2017, 8(Z3): 19-22.
+
+
+Awards
+---
+09/2022 Best Artifact Award, International Conference on Information and Communications Security (ICICS 2022) 
+10/2021 1st Prize, Encrypted Traffic Analysis on DataCon Big Data Security Analysis Contest 
+05/2021 Dean's Excellence Award, Institute of Information Engineering, Chinese Academy of Sciences 
+10/2020 Excellence Award on Coremail E-mail Security Analysis Contest 
+06/2017 Outstanding Bachelor Thesis Award, Civil Aviation University of China 
+08/2015 1st Prize, National College Student Information Security Contest 
+
+
+Contact 
+---
+zhiwang#ieee.org
