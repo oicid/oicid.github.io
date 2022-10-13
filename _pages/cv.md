@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version will be available soon.
+[PDF (Chinese)](/files/ZhiWang-zh_CN.pdf). English version will be available soon.
 
 Education
 ======
