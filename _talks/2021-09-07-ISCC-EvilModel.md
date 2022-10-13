@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2021-09-07-ISCC-EvilModel
 venue: "26th IEEE Symposium on Computers and Communications (ISCC 2021)"
-date: 2021-09-05
+date: 2021-09-07
 location: "Athens, Greece (Virtual)"
 ---
 
