@@ -26,7 +26,7 @@ Education
 Publication 
 ---
 
-Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**), ACM, 2022. (To appear)
+Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**), ACM, 2022. DOI: [10.1145/3564625.3564661](https://doi.org/10.1145/3564625.3564661)
 
 **Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, Jiaxi Liu, Di Wu, and Qixu Liu. DeepC2: AI-Powered Covert Command and Control on OSNs. In 24th International Conference on Information and Communications Security (**ICICS'22**), Springer, Cham, 2022: 394-414. DOI: [10.1007/978-3-031-15777-6_22](https://doi.org/10.1007/978-3-031-15777-6_22) (**Best Artifact Award**)
 
