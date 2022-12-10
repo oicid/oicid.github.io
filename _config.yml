@@ -86,9 +86,9 @@ author:
   location         : "Beijing, P.R.China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=yrGIzIYAAAAJ"
   email            : "zhiwang@ieee.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhi-Wang-84"
   uri              :
   bitbucket        :
   codepen          :
