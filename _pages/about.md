@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
+**Zhi Wang** is pronounced as **Chih Wang**. I am a Ph.D. candidate in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
 My main research interests include AI security, network and application security, and botnet. 
 
 I am expected to graduate in July 2023, and I am looking for a postdoc or work opportunity in cyber security or related directions.
