@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhi Wang"
+title: "Zhi Wang (Chih Wang)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
