@@ -28,7 +28,7 @@ Publication
 
 Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023. (To appear)
 
-Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**). ACM, 2022. DOI: [10.1145/3564625.3564661](https://doi.org/10.1145/3564625.3564661)
+Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**). ACM, 2022: 267–278. DOI: [10.1145/3564625.3564661](https://doi.org/10.1145/3564625.3564661)
 
 **Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, Jiaxi Liu, Di Wu, and Qixu Liu. DeepC2: AI-Powered Covert Command and Control on OSNs. In 24th International Conference on Information and Communications Security (**ICICS'22**). Springer, Cham, 2022: 394-414. DOI: [10.1007/978-3-031-15777-6_22](https://doi.org/10.1007/978-3-031-15777-6_22) (**Best Artifact Award**)
 
