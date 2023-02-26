@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zhi Wang"
 title_separator          : "-"
 name                     : &name "Zhi Wang"
 description              : &description "Zhi Wang is a PhD candidate in Cyber Security in UCAS."
