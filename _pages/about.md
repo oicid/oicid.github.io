@@ -26,6 +26,8 @@ Education
 Publication 
 ---
 
+Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
+
 Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023. (To appear)
 
 Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**). ACM, 2022: 267–278. DOI: [10.1145/3564625.3564661](https://doi.org/10.1145/3564625.3564661)
