@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-**Zhi Wang** is pronounced as **Chih Wang**. I am a Ph.D. candidate in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
+I am a Ph.D. candidate in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
 My main research interests include AI security, network and application security, and botnet. 
 
-I am expected to graduate in July 2023, and I am looking for a postdoc or work opportunity in cyber security or related directions.
+I am expected to graduate in July 2023. I will join Zhongguancun Laboratory as an Assitant Researcher.
 
 
 Education
@@ -26,7 +26,7 @@ Education
 Publication 
 ---
 
-Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
+Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023, 130: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
 
 Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023. (To appear)
 
