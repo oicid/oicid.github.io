@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhi Wang"
 title_separator          : "-"
 name                     : &name "Zhi Wang"
-description              : &description "Zhi Wang is a PhD candidate in Cyber Security in UCAS."
+description              : &description "Zhi Wang is an Assistant Researcher at Zhongguancun Laboratory."
 url                      : https://zw.ac.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oicid/oicid.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zhi Wang"
-  avatar           : "profile.png"
-  bio              : "PhD candidate in Cyber Security"
+  avatar           : "profile.jpg"
+  bio              : "Assistant Researcher in Cyber Security"
   location         : "Beijing, P.R.China"
   employer         :
   pubmed           : 
