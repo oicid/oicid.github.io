@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a Ph.D. candidate in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
+I am an Assistant Researcher in Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
 My main research interests include AI security, network and application security, and botnet. 
 
-I am expected to graduate in July 2023. I will join Zhongguancun Laboratory as an Assitant Researcher.
+Work
+---
+\[07/2023 -- now\] **Zhongguancun Laboratory**, Assistant Researcher
 
 
 Education
 ---
 
-\[09/2017 -- Now\] **University of Chinese Academy of Sciences**, PhD in Cyber Security
+\[09/2017 -- 06/2023\] **University of Chinese Academy of Sciences**, PhD in Cyber Security
 
 \[09/2013 -- 06/2017\] **Civil Aviation University of China**, Bachelor in Information Security
 
