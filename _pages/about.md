@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Researcher in Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), advised by Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
-My main research interests include AI security, network and application security, and botnet. 
+I am an Assistant Researcher at Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), under the guidance of Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784?language=en). 
+My primary research interests include AI security, network and application security, and botnets. 
 
 Work
 ---
