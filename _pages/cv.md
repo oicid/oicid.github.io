@@ -14,10 +14,11 @@ redirect_from:
 Education
 ======
 * B.S. in Information Security, Civil Aviation University of China, 2017
-* Ph.D in Cyber Security, University of Chinese Academy of Sciences, 2023 (expected)
+* Ph.D in Cyber Security, University of Chinese Academy of Sciences, 2023 
 
 Work experience
 ======
+* Jul. 2023 - now: Assistant Researcher at Zhongguancun Laboratory
 * Apr. 2017 - Aug. 2017: Institute of Information Engineering, Chinese Academy of Sciences
   * Working principle of ZeroNet
   
