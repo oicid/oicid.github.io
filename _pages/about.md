@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Researcher at Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), under the guidance of Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784), [Qixu Liu](https://people.ucas.ac.cn/~liuqixu), and [Chaoge Liu](https://people.ucas.ac.cn/~liuchaoge). 
-My primary research interests include AI security, network and application security, and botnets. 
+I am an Assistant Researcher at Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), under the guidance of Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784), [Qixu Liu](https://people.ucas.ac.cn/~liuqixu), and [Chaoge Liu](https://people.ucas.ac.cn/~liuchaoge). 
+My primary research interests include AI security, network and application security, botnet, and blockchain. 
 
 Work
 ---
@@ -29,7 +29,7 @@ Publication
 
 Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023, 130: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
 
-Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023. (To appear)
+Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023: 790-796. DOI: [10.1109/ICC45041.2023.10279372](https://doi.org/10.1109/ICC45041.2023.10279372)
 
 Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks. In Annual Computer Security Applications Conference (**ACSAC'22**). ACM, 2022: 267–278. DOI: [10.1145/3564625.3564661](https://doi.org/10.1145/3564625.3564661)
 
@@ -45,7 +45,7 @@ Fangjiao Zhang, Xiang Cui, **Zhi Wang**, Shaomian Chen, Qixu Liu, and Chaoge Liu
 
 Jie Yin, Xiang Cui, Chaoge Liu, Qixu Liu, Tao Cui, and **Zhi Wang**. CoinBot: A covert botnet in the cryptocurrency network. In 22nd International Conference on Information and Communications Security (**ICICS'20**). Springer, Cham, 2020: 107-125. DOI: [10.1007/978-3-030-61078-4_7](https://doi.org/10.1007/978-3-030-61078-4_7)
 
-Zihao Zhao, Qixu Liu, Tiantian Song, **Zhi Wang**, and Xianda Wu. WSLD: detecting unknown webshell using fuzzy matching and deep learning. In 21st International Conference on Information and Communications Security (**ICICS'19**). Springer, Cham, 2019: 725-745. DOI: [10.1007/978-3-030-41579-2_42](https://doi.org/10.1007/978-3-030-41579-2_42)
+Zihao Zhao, Qixu Liu, Tiantian Song, **Zhi Wang**, and Xianda Wu. WSLD: Detecting Unknown Webshell Using Fuzzy Matching and Deep Learning. In 21st International Conference on Information and Communications Security (**ICICS'19**). Springer, Cham, 2019: 725-745. DOI: [10.1007/978-3-030-41579-2_42](https://doi.org/10.1007/978-3-030-41579-2_42)
 
 **Zhi Wang**, Jinli Zhang, Qixu Liu, Xiang Cui, and Junwei Su. Practical Metrics for Evaluating Anonymous Networks. In 1st International Conference on Science of Cyber Security (**SciSec'18**). Springer, Cham, 2018: 3-18. DOI: [10.1007/978-3-030-03026-1_1](https://doi.org/10.1007/978-3-030-03026-1_1)
 
@@ -77,6 +77,10 @@ Awards
 
 \[08/2015\] **1st Prize**, National College Student Information Security Contest 
 
+Services
+---
+
+Reviewer: [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [CSAE2023](http://www.csaeconf.org/).
 
 Contact 
 ---
