@@ -11,6 +11,8 @@ redirect_from:
 I am an Assistant Researcher at Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), under the guidance of Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784), [Qixu Liu](https://people.ucas.ac.cn/~liuqixu), and [Chaoge Liu](https://people.ucas.ac.cn/~liuchaoge). 
 My primary research interests include AI security, network and application security, botnet, and blockchain. 
 
+**Note** My `iie.ac.cn` email address is no longer in use. If you need to contact me, please use `zhiwang AT ieee.org` instead.
+
 Work
 ---
 \[07/2023 -- now\] **Zhongguancun Laboratory**, Assistant Researcher
