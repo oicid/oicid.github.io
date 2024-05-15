@@ -1,5 +1,5 @@
 ---
-title: "人工智能赋能网络威胁研究进展 AI Powered Cyber Threats: A Survey (in Chinese)"
+title: "人工智能赋能网络威胁研究进展 AI-Powered Cyber Threats: A Survey (in Chinese)"
 collection: publications
 permalink: /publication/AISec-Survey_JCS_2022
 excerpt: 'This is a survey on the application of AI in cyber threats.'
