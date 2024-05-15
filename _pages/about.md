@@ -29,7 +29,13 @@ Education
 Publication 
 ---
 
-Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023, 130: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
+Xutong Wang, Jie Yin, Chaoge Liu, Chenchen Xu, Hao Huang, **Zhi Wang**, and Fangjiao Zhang. A Survey of Backdoor Attacks and Defenses on Neural Networks. **Chinese Journal of Computers**. (Accepted)
+
+Peng Liao, Binxing Fang, Chaoge Liu, **Zhi Wang**, Yuntao Zhang, and Xiang Cui. Measurement and Detection Techniques for NFT Counterfeiting Fraud. **Chinese Journal of Computers**. 2024, 47(5):1065-1081. DOI: [10.11897/SP.J.1016.2024.0065](http://cjc.ict.ac.cn/online/onlinepaper/lp-202458160556.pdf)
+
+Peng Liao, Chaoge Liu, Jie Yin, **Zhi Wang**, and Xiang Cui. NFT Security Matrix: Towards Modeling NFT Ecosystem Threat. **Computer Modeling in Engineering & Sciences**. 2024, 139(3): 3255-3285. DOI: [10.32604/cmes.2024.043855](https://10.32604/cmes.2024.043855)
+
+Cong Dong, Jiahai Yang, Song Liu, **Zhi Wang**, Yuling Liu, and Zhigang Lu. C-BEDIM and S-BEDIM: Lateral Movement Detection In Enterprise Network Through Behavior Deviation Measurement. **Computers & Security**. 2023, 130: 103267. DOI: [10.1016/j.cose.2023.103267](https://doi.org/10.1016/j.cose.2023.103267)
 
 Yanhui Chen, Yun Feng, **Zhi Wang**, Jianjun Zhao, Chengchun Wang, and Qixu Liu. IMaler: An Adversarial Attack Framework to Obfuscate Malware Structure against DGCNN-based Classifier via Reinforcement Learning. In 2023 IEEE International Conference on Communications (**ICC'23**). IEEE, 2023: 790-796. DOI: [10.1109/ICC45041.2023.10279372](https://doi.org/10.1109/ICC45041.2023.10279372)
 
@@ -39,7 +45,7 @@ Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make 
 
 **Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, and Xutong Wang. EvilModel 2.0: Bringing Neural Network Models into Malware Attacks. **Computers & Security**. 2022, 120: 102807. DOI: [10.1016/j.cose.2022.102807](https://doi.org/10.1016/j.cose.2022.102807) 
 
-**Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (in Chinese). **Journal of Cyber Security**. (Accepted)
+**Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (in Chinese). **Chinese Journal of Cyber Security**. (Accepted) DOI: [10.19363/J.cnki.cn10-1380/tn.2024.04.09](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?doi=10.19363/J.cnki.cn10-1380/tn.2024.04.09)
 
 **Zhi Wang**, Chaoge Liu, and Xiang Cui. EvilModel: Hiding Malware Inside of Neural Network Models. In 2021 IEEE Symposium on Computers and Communications (**ISCC'21**). IEEE, 2021: 1-7. DOI: [10.1109/iscc53001.2021.9631425](https://doi.org/10.1109/iscc53001.2021.9631425) 
 
