@@ -29,9 +29,13 @@ Education
 Publication 
 ---
 
-Xutong Wang, Jie Yin, Chaoge Liu, Chenchen Xu, Hao Huang, **Zhi Wang**, and Fangjiao Zhang. A Survey of Backdoor Attacks and Defenses on Neural Networks. **Chinese Journal of Computers**. (Accepted)
+Yong Zhao, Ang Xia, Jie Yin, **Zhi Wang**, Yaqin Cao, Xiangyi Zeng, Yuling Liu. BASSET: Enhancing Binary Code Clone Searching through Multi-Level Hybrid Semantic Indexing. In 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN'25**), Naples, Italy. IEEE, 2025: 47-60. DOI: [10.1109/DSN64029.2025.00020](https://doi.org/10.1109/DSN64029.2025.00020)
 
-Peng Liao, Binxing Fang, Chaoge Liu, **Zhi Wang**, Yuntao Zhang, and Xiang Cui. Measurement and Detection Techniques for NFT Counterfeiting Fraud. **Chinese Journal of Computers**. 2024, 47(5):1065-1081. DOI: [10.11897/SP.J.1016.2024.0065](http://cjc.ict.ac.cn/online/onlinepaper/lp-202458160556.pdf)
+Chaoge Liu, **Zhi Wang**, Jie Yin, Yinsheng Liu, Kai Mao, Zhe Huang, Chumeng Deng. SCBot: Building Lightweight and Flexible C&C Based on Smart Contract. In 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP'25**), Hyderabad, India. IEEE, 2025: 1-5. DOI: [10.1109/ICASSP49660.2025.10889707](https://doi.org/10.1109/ICASSP49660.2025.10889707)
+
+Xutong Wang, Jie Yin, Chaoge Liu, Chenchen Xu, Hao Huang, **Zhi Wang**, and Fangjiao Zhang. A Survey of Backdoor Attacks and Defenses on Neural Networks (神经网络后门攻击与防御综述). **Chinese Journal of Computers (计算机学报)**. 2024, 47(8): 1713-1743. DOI: [10.11897/SP.J.1016.2024.01713](http://cjc.ict.ac.cn/online/onlinepaper/wxt-2024729175456.pdf)
+
+Peng Liao, Binxing Fang, Chaoge Liu, **Zhi Wang**, Yuntao Zhang, and Xiang Cui. Measurement and Detection Techniques for NFT Counterfeiting Fraud (NFT仿冒欺诈的测量与检测技术). **Chinese Journal of Computers (计算机学报)**. 2024, 47(5):1065-1081. DOI: [10.11897/SP.J.1016.2024.0065](http://cjc.ict.ac.cn/online/onlinepaper/lp-202458160556.pdf)
 
 Peng Liao, Chaoge Liu, Jie Yin, **Zhi Wang**, and Xiang Cui. NFT Security Matrix: Towards Modeling NFT Ecosystem Threat. **Computer Modeling in Engineering & Sciences**. 2024, 139(3): 3255-3285. DOI: [10.32604/cmes.2024.043855](https://10.32604/cmes.2024.043855)
 
@@ -45,7 +49,7 @@ Xutong Wang, Chaoge Liu, Xiaohui Hu, **Zhi Wang**, Jie Yin, and Xiang Cui. Make 
 
 **Zhi Wang**, Chaoge Liu, Xiang Cui, Jie Yin, and Xutong Wang. EvilModel 2.0: Bringing Neural Network Models into Malware Attacks. **Computers & Security**. 2022, 120: 102807. DOI: [10.1016/j.cose.2022.102807](https://doi.org/10.1016/j.cose.2022.102807) 
 
-**Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (in Chinese). **Chinese Journal of Cyber Security**. (Accepted) DOI: [10.19363/J.cnki.cn10-1380/tn.2024.04.09](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?doi=10.19363/J.cnki.cn10-1380/tn.2024.04.09)
+**Zhi Wang**, Jie Yin, Xiang Cui, Qixu Liu, Chaoge Liu, and Xutong Wang. AI-Powered Cyber Threats: A Survey (人工智能赋能网络威胁研究进展). **Chinese Journal of Cyber Security (信息安全学报)**. (Accepted) DOI: [10.19363/J.cnki.cn10-1380/tn.2024.04.09](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?doi=10.19363/J.cnki.cn10-1380/tn.2024.04.09)
 
 **Zhi Wang**, Chaoge Liu, and Xiang Cui. EvilModel: Hiding Malware Inside of Neural Network Models. In 2021 IEEE Symposium on Computers and Communications (**ISCC'21**). IEEE, 2021: 1-7. DOI: [10.1109/iscc53001.2021.9631425](https://doi.org/10.1109/iscc53001.2021.9631425) 
 
@@ -65,7 +69,7 @@ Jinli Zhang, **Zhi Wang**. Poster: An anonymity metric of anonymous network. In 
 
 Junwei Su, Qixu Liu, **Zhi Wang**, and Xiaoyun Li. Poster: A Web Server Identified Model based on Mean Shift. In 2018 IEEE Symposium on Security and Privacy (**S&P'18**). IEEE, 2018. 
 
-Wei Jin, Hong Cui, **Zhi Wang**, Faqin Guo, Yiwen Wang, and Shuai He. Detection and Control System for DDoS Attacks (in Chinese). **Cyberspace Security**. 2017, 8(Z3): 19-22.
+Wei Jin, Hong Cui, **Zhi Wang**, Faqin Guo, Yiwen Wang, and Shuai He. Detection and Control System for DDoS Attacks (针对DDoS攻击的检测与控制系统). **Cyberspace Security (网络空间安全)**. 2017, 8(Z3): 19-22.
 
 
 Awards
@@ -88,7 +92,15 @@ Awards
 Services
 ---
 
-Reviewer: [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [CSAE2023](http://www.csaeconf.org/).
+Member of ACM.
+
+Member of IEEE, Member of IEEE Computer Society, Member of IEEE Communications Society.
+
+Professional Member of CCF, Member of the Computer Security Professional Committee of CCF, Executive Member of the Network and System Security Committee of CCF.
+
+Reviewer: [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [Cybersecurity](https://cybersecurity.springeropen.com/), [Chinese Journal of Cyber Security (信息安全学报)](https://jcs.iie.ac.cn/xxaqxb/ch/index.aspx), [ICASSP2025](https://2025.ieeeicassp.org/), [IJCNN2025](https://2025.ijcnn.org/), [CSAE2023](http://www.csaeconf.org/).
+
+TPC member: [ICAIDES2025](https://icaides.untar.ac.id/).
 
 Contact 
 ---
