@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an Assistant Researcher at Zhongguancun Laboratory. I received my Ph.D. degree in Cyber Security from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), under the guidance of Prof. [Xiang Cui](https://people.ucas.ac.cn/~0040784), [Qixu Liu](https://people.ucas.ac.cn/~liuqixu), and [Chaoge Liu](https://people.ucas.ac.cn/~liuchaoge). 
+I led projects funded by the National Natural Science Foundation of China (NSFC) and topics under the National Science and Technology Major Project.
 My primary research interests include AI security, network and application security, botnet, and blockchain. 
 
 **Note** My `iie.ac.cn` and `arkteam.net` email addresses are no longer in use. If you need to contact me, please use `zhiwang AT ieee.org` instead.
@@ -28,6 +29,10 @@ Education
 
 Publication 
 ---
+
+Zhe Huang, **Zhi Wang**, Chaoge Liu, Xiao Deng, Shengjia Chang, Mengyang Xu. Beyond the Blank Slate: Typed Operating System State for Cross-Session Consistency in LLM-Powered Honeypots. In 20th International Symposium on Research in Attacks, Intrusions and Defenses (**RAID'26**), Lancaster, UK. Springer, 2026.
+
+Zhe Huang, Chaoge Liu, **Zhi Wang**, Xiang Cui, Xiao Deng, Mengyang Xu. Package Hallucinations as Phantoms in Open-source Software Supply Chains: An Empirical Security Analysis. ACM Transactions on Software Engineering and Methodology (TOSEM). 2026. DOI: [10.1145/3830237](https://doi.org/10.1145/3830237)
 
 Yong Zhao, Ang Xia, Jie Yin, **Zhi Wang**, Yaqin Cao, Xiangyi Zeng, Yuling Liu. BASSET: Enhancing Binary Code Clone Searching through Multi-Level Hybrid Semantic Indexing. In 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN'25**), Naples, Italy. IEEE, 2025: 47-60. DOI: [10.1109/DSN64029.2025.00020](https://doi.org/10.1109/DSN64029.2025.00020)
 
@@ -79,24 +84,18 @@ Awards
 
 \[10/2021\] **1st Prize**, Encrypted Traffic Analysis on DataCon Big Data Security Analysis Contest 
 
-\[05/2021\] **Dean's Excellence Award**, Institute of Information Engineering, Chinese Academy of Sciences 
-
 \[10/2020\] **Excellence Award** on Coremail E-mail Security Analysis Contest 
-
-\[05/2019\] **Outstanding Student**, University of Chinese Academy of Sciences 
-
-\[06/2017\] **Outstanding Bachelor Thesis Award**, Civil Aviation University of China 
 
 \[08/2015\] **1st Prize**, National College Student Information Security Contest 
 
 Services
 ---
 
-Member of ACM.
+Member of Association for Computing Machinery (ACM), China Cyber Security Society (CCSS), Chinese Association for Artificial Intelligence (CAAI).
 
 Member of IEEE, Member of IEEE Computer Society, Member of IEEE Communications Society.
 
-Professional Member of CCF, Member of the Computer Security Professional Committee of CCF, Executive Member of the Network and System Security Committee of CCF.
+Professional Member of CCF, Member of the Computer Security Professional Committee of CCF, Executive Member of the CCF Technical Committee on Network and System Security, Executive Member of the CCF Technical Committee on Information Security.
 
 Reviewer: [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), [Cybersecurity](https://cybersecurity.springeropen.com/), [Blockchain](https://www.elspub.com/journals/blockchain/home/), [Chinese Journal of Cyber Security (信息安全学报)](https://jcs.iie.ac.cn/xxaqxb/ch/index.aspx), [ICASSP2025](https://2025.ieeeicassp.org/), [IJCNN2026 (WCCI2026)](https://attend.ieee.org/wcci-2026/), [IJCNN2025](https://2025.ijcnn.org/), [CSAE2023](http://www.csaeconf.org/).
 
