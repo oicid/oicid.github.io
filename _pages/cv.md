@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF (Chinese)](/files/ZhiWang-zh_CN.pdf). English version will be available soon.
+[PDF (Chinese)](/files/ZhiWang-zh_CN.pdf) [PDF (English)](/files/ZhiWang-en_US.pdf).
 
 Education
 ======
@@ -20,13 +20,13 @@ Work experience
 ======
 * Jul. 2023 - now: Assistant Researcher at Zhongguancun Laboratory
 * Apr. 2017 - Aug. 2017: Institute of Information Engineering, Chinese Academy of Sciences
-  * Working principle of ZeroNet
   
 Skills
 ======
 * Python 
 * Application Security
 * Deep Learning
+* LLM
 
 Publications
 ======
